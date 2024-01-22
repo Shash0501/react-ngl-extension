@@ -5,4 +5,3 @@ export { StructureRepresentationType } from '../../@types/ngl/declarations/compo
 export { SurfaceRepresentationType } from '../../@types/ngl/declarations/component/surface-component';
 export { StageLoadFileParams } from '../../@types/ngl/declarations/stage/stage';
 export { TrajectoryElementParameters } from '../../@types/ngl/declarations/component/trajectory-element';
-export {Trajectory} from '../../@types/ngl/declarations/trajectory/trajectory';
